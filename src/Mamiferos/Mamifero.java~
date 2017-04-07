@@ -15,13 +15,13 @@ public class Mamifero{
     
     static class Perro extends Mamifero {
         public Perro(String nombre){
-          super(nombre, 5);
+          super(nombre, 4);
         }
     }
       
     public class Gato extends Mamifero {
         public Gato(String nombre){
-          super(nombre, 5);
+          super(nombre, 4);
         }
 
     }
